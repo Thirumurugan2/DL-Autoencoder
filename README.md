@@ -41,9 +41,9 @@ Repeat the process for several epochs and visualize the denoised output images a
 
 ## PROGRAM
 
-### Name:Franklin raj g
+### Name:THIRUMURUGAN R
 
-### Register Number:212223230058
+### Register Number:212223220118
 
 ```python
 # Autoencoder Definition
