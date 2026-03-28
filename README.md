@@ -78,8 +78,8 @@ optimizer = optim.Adam(model.parameters(), lr=1e-3)
 # Training function
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print("Name:franklin raj g                   ")
-    print("Register Number:   212223230058               ")
+    print("Name:THIRUMURUGAN R")
+    print("Register Number:212223220118")
 
     for epoch in range(epochs):
         running_loss = 0.0
